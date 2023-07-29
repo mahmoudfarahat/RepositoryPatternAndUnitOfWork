@@ -1,0 +1,12 @@
+C:\Users\Mahmoud\Desktop\RepositoryWIthUOW.Core\bin\Debug\net6.0\RepositoryWIthUOW.Core.deps.json
+C:\Users\Mahmoud\Desktop\RepositoryWIthUOW.Core\bin\Debug\net6.0\RepositoryWIthUOW.Core.dll
+C:\Users\Mahmoud\Desktop\RepositoryWIthUOW.Core\bin\Debug\net6.0\RepositoryWIthUOW.Core.pdb
+C:\Users\Mahmoud\Desktop\RepositoryWIthUOW.Core\obj\Debug\net6.0\RepositoryWIthUOW.Core.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\Desktop\RepositoryWIthUOW.Core\obj\Debug\net6.0\RepositoryWIthUOW.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Desktop\RepositoryWIthUOW.Core\obj\Debug\net6.0\RepositoryWIthUOW.Core.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Desktop\RepositoryWIthUOW.Core\obj\Debug\net6.0\RepositoryWIthUOW.Core.AssemblyInfo.cs
+C:\Users\Mahmoud\Desktop\RepositoryWIthUOW.Core\obj\Debug\net6.0\RepositoryWIthUOW.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\RepositoryWIthUOW.Core\obj\Debug\net6.0\RepositoryWIthUOW.Core.dll
+C:\Users\Mahmoud\Desktop\RepositoryWIthUOW.Core\obj\Debug\net6.0\refint\RepositoryWIthUOW.Core.dll
+C:\Users\Mahmoud\Desktop\RepositoryWIthUOW.Core\obj\Debug\net6.0\RepositoryWIthUOW.Core.pdb
+C:\Users\Mahmoud\Desktop\RepositoryWIthUOW.Core\obj\Debug\net6.0\ref\RepositoryWIthUOW.Core.dll
